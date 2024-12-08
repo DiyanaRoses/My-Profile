@@ -1,6 +1,6 @@
 # Profile Information  
 
-**Name:** Nur Aimi Diyana Binti Saiful Bahri
+**Name:** Faiz Mullah Bin Yusof
 
 **Education:** Bachelor of Computer Science (BCSC)  
 
