@@ -1,8 +1,9 @@
 # Profile Information  
 
 **Name:** Nur Aimi Diyana Binti Saiful Bahri
+
 **Education:** Bachelor of Computer Science (BCSC) 
-nhjmm 
+
 
 ---
 
