@@ -39,3 +39,41 @@ Aspiring Computer Science professional with a passion for software development, 
 - **Soft Skills:** Problem-solving, creativity, and team collaboration  
 
 **Timezone:** Kuala Lumpur (GMT+8)  
+
+# Statistics  
+
+## Overview  
+| Statistic         | Value          | Description                                    |
+|--------------------|----------------|------------------------------------------------|
+| Total Projects     | **4**          | Number of completed major projects.           |
+| Programming Skills | **4 languages**| Dart, C#, PHP, HTML.                          |
+| Tools Expertise    | **3 tools**    | Adobe Animate, Visual Studio, MySQL.          |
+| Time Zone          | **GMT+8**      | Kuala Lumpur, Malaysia.                       |
+
+---
+
+## Detailed Breakdown  
+
+### Projects  
+- **LanguAce Mobile Apps**: Mobile app for managing TATIUC's LanguAce Club.  
+- **Knowing The Animal**: Educational interactive animation for kids.  
+- **SHOEMATE**: Automatic shoe dryer and cleaner.  
+- **TutorStudent App**: Mobile platform connecting students and tutors.  
+
+### Skills  
+- **Programming Languages**:  
+  - Dart (Flutter)  
+  - C#  
+  - PHP  
+  - HTML  
+
+- **Tools**:  
+  - Adobe Animate  
+  - Visual Studio  
+  - MySQL  
+
+### Highlights  
+- Demonstrated ability to deliver real-world solutions through innovative applications.  
+- Strong expertise in multimedia design and app development.  
+- Proven track record of teamwork and problem-solving in diverse projects.  
+
