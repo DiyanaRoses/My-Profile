@@ -1,74 +1,41 @@
-# My-Profile
+# Profile Information  
 
-# [Your Full Name]
-**Student Developer & Project Innovator**  
-[Your Email Address] | [Your Phone Number] | [Your LinkedIn Profile](https://linkedin.com/in/yourprofile) | [Your Portfolio or Personal Website](https://yourwebsite.com)
-
----
-
-## Summary
-A highly motivated student at University College TATI (TATIUC) with a strong passion for developing innovative web and mobile applications. Experienced in club management system development, educational multimedia projects, and application design for student engagement. Skilled in C#, PHP, Dart, and project management with a focus on enhancing user experiences.
+**Name:** Nur Aimi Diyana Binti Saiful Bahri  
+**Education:** Bachelor of Computer Science (BCSC)  
 
 ---
 
-## Education
-**Bachelor's Degree in [Your Program]**  
-University College TATI (TATIUC), [City, State]  
-[Start Month, Year] – Present
+## Summary  
+Aspiring Computer Science professional with a passion for software development, multimedia design, and innovative solutions. Experienced in building applications and projects that combine technology with user-centric design to solve real-world problems effectively.  
 
 ---
 
-## Skills
-- **Programming Languages:** Dart, C#, PHP  
-- **Frameworks & Tools:** Flutter, Microsoft Visual Studio, Adobe Animate  
-- **Database Management:** MySQL  
-- **Technical Skills:** Web and mobile app development, UI/UX design, interactive multimedia, educational application design  
-- **Soft Skills:** Team collaboration, problem-solving, project planning
-
----
-
-## Projects
+## Projects  
 
 ### LanguAce Mobile Apps: Centralizing LanguAce Club Management  
-**Role:** Developer  
-- Built a mobile app for LanguAce Club at TATIUC to streamline member registration, event management, and information dissemination.  
-- Designed features for admins, club members, and guests to enhance engagement and operational efficiency.  
+*Final Year Project Proposal*  
+- Developed a mobile app for managing the LanguAce Club at TATIUC.  
+- Streamlined member registration, event promotion, and information sharing.  
+- Included roles and features for admins, club members, and non-club members.  
 
-### UCTATI Student Club Management System  
-**Role:** Web Application Developer  
-- Created a platform to streamline club registration, event planning, and communication at TATIUC.  
-- Improved student engagement through interactive and accessible features.
+### Knowing The Animal  
+*Multimedia Educational Project*  
+- Created an Adobe Animate-based interactive animation for kids aged 4+.  
+- Combined graphics, sound, text, and animation to teach animal names, spellings, sounds, and fun facts.  
 
-### Blossom Varieties  
-**Role:** Developer  
-- Designed a user authentication system using PHP and Dart.  
-- Managed backend database for efficient user management.  
+### SHOEMATE: Automatic Shoe Dryer and Cleaner  
+- Designed a combined shoe cleaning and drying system for efficient and convenient footwear care.  
+- Features include customizable settings, steam drying, and compatibility with various shoe types.  
 
-### Semester Grade Calculator  
-**Role:** Developer  
-- Developed an application to calculate semester grades based on quizzes, assignments, and exams for UCTATI students.  
-- Ensured accuracy with UCTATI's grading scale and optimized for user-friendliness.
-
-### SHOEMATE: Combined Shoe Dryer and Cleaner Machine  
-**Role:** Researcher & Technical Writer  
-- Contributed to a project aimed at designing an advanced shoe care machine.  
-- Addressed inefficiencies in traditional shoe cleaning and drying methods.
+### TutorStudent App  
+- Developed a mobile application to connect students and tutors effectively.  
+- Included features for scheduling sessions, managing lesson materials, and tracking progress.  
 
 ---
 
-## Activities and Clubs
-- **LanguAce Club at TATIUC (Member, since 2022):**  
-  Participated in interactive events and language learning initiatives.  
+## Skills  
+- **Programming Languages:** Dart (Flutter), C#, PHP, HTML  
+- **Tools:** Adobe Animate, Visual Studio, MySQL  
+- **Soft Skills:** Problem-solving, creativity, and team collaboration  
 
----
-
-## Achievements
-- Successfully developed multiple interactive multimedia applications for educational purposes targeting children aged 8–12.
-- Innovated efficient systems to address challenges in club management and student activity planning.
-
----
-
-## Contact
-**Email:** [Your Email Address]  
-**Phone:** [Your Phone Number]  
-**Portfolio:** [Your Portfolio or Personal Website](https://yourwebsite.com)  
+**Timezone:** Kuala Lumpur (GMT+8)  
